@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang=es
+<head>
+</head>
+<body>
+  <header>
+   <h2>hola</h2>
+  </header>
+  <slide>
+   <p>hola que tal</p>
+  </slide>
+</body>
+</html>
